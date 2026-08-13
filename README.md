@@ -1,2 +1,2 @@
-author - yash raj
+author - yash raja
 this is my first project
